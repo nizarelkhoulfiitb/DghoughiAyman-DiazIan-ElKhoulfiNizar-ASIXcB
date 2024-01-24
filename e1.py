@@ -1,3 +1,12 @@
+"""
+24/01/2024
+Ayman Dghoughi, Nizar El Khoulfi, Ian Díaz
+ASIXcB e1 UF1
+Fer un programa de càlcul de temperatures del mar. Les tasques a fer són:
+Calcular per a l’any  2022: temperatura màxima, mínima i mitjana
+Calcular per període 2000 a 2022: temperatura màxima, mínima i mitjana
+"""
+
 temp2022 = (13.6, 13.4, 13.2, 13.4, 13.9, 13.7, 13.7, 13.8, 14.0, 14.3, 16.0, 15.1)
 tempALL = (13.6, 13.4, 13.2, 13.4, 13.9, 13.7, 13.7, 13.8, 14.0, 14.3, 16.0, 15.1,
    13.3, 12.9, 13.5, 13.5, 13.7, 13.8, 13.8, 13.8, 14.2, 14.6, 16.8, 14.7,
