@@ -16,6 +16,7 @@ idiomes = ['CAT', 'ESP', 'ENG', 'KLI']
 for i in range(len(INSULTS["CAT"])):
     if INSULTS['CAT'][i] == insult:
         print(f'Espanyol:\t{INSULTS["ESP"][i]}\nAnglès:\t\t{INSULTS["ENG"][i]}\nKlingon:\t{INSULTS["KLI"][i]}')
+        exists = True
 
 #Ejercicio bonus:
 for x in idiomes:
