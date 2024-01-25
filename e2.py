@@ -9,7 +9,7 @@ import random
 
 LIMITINF, LIMITSUP = 1, 50
 lista = [random.randint(LIMITINF, LIMITSUP) for i in range(100)]
-totalParells, totalSenars = 0, 0
+totalParells, totalSenars = 0
 
 for i in range(len(lista)):
     if i % 2 == 0:
